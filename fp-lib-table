@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sl")(type "KiCad")(uri "${KIPRJMOD}/../streamline_kicad_libraries/sl.pretty")(options "")(descr ""))
+)
