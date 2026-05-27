@@ -1,0 +1,11 @@
+** Drc report for streamline_rs485.kicad_pcb **
+** Created on 2026-03-29T19:28:19+0800 **
+** Report includes: Errors, Warnings **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

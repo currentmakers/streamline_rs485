@@ -13,6 +13,7 @@
 *-bak*
 *~
 ~*
+.history
 _autosave-*
 \#auto_saved_files\#
 *.tmp
