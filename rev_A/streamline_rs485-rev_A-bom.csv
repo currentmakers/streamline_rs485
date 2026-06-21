@@ -1,0 +1,6 @@
+"Designator","Qty","Value","Footprint","LCSC"
+"C1","1","10uF","Capacitor_SMD:C_0805_2012Metric","C15850"
+"C2","1","100nF","Capacitor_SMD:C_0603_1608Metric","C14663"
+"J2","1","Conn_01x03","Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal","C5183941"
+"R1,R2,R3,R4","4","0R","Resistor_SMD:R_0603_1608Metric","C21189"
+"U1","1","LTC2850xS8","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",""
